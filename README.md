@@ -94,8 +94,8 @@ Tool to remove Excel sheet and VBA passwords.
 #### نسخ جاهزة للتشغيل (Windows)
 | Version | GitHub Release | Direct Download |
 |--------|---------------|----------------|
-|  النسخة العربية - لا يحتاج تثبيت   Arabic Version - no installation needed | [![GitHub Download](https://img.shields.io/badge/GitHub-Download-blue?style=for-the-badge&logo=github)](https://github.com/TahaDev0/Excel-Password-VBA-Sheets-Remover/releases/tag/4.0.0.0) | [![Direct Download](https://img.shields.io/badge/Direct-Download-green?style=for-the-badge&logo=download)](https://www.up-4ever.net/6mgk38ds3lbt) |
-|  النسخة الإنجليزية - لا يحتاج تثبيت  English Version -no installation needed | [![GitHub Download](https://img.shields.io/badge/GitHub-Download-blue?style=for-the-badge&logo=github)]([https://github.com/TahaDev0/Excel-Password-VBA-Sheets-Remover/releases/tag/Excel_Password_Remover_AR_EN](https://github.com/TahaDev0/Excel-Password-VBA-Sheets-Remover/releases/tag/4.0.0.0)) | [![Direct Download](https://img.shields.io/badge/Direct-Download-green?style=for-the-badge&logo=download)](https://www.up-4ever.net/4jli1bvht6r9) |
+|  النسخة العربية - لا يحتاج تثبيت   Arabic Version - no installation needed | [![GitHub Download](https://img.shields.io/badge/GitHub-Download-blue?style=for-the-badge&logo=github)](https://github.com/TahaDev0/Excel-Password-VBA-Sheets-Remover/releases/tag/4.0.0.0) | [![Direct Download](https://img.shields.io/badge/Direct-Download-green?style=for-the-badge&logo=download)](https://www.up-4ever.net/fa0khnkx3yvg) |
+|  النسخة الإنجليزية - لا يحتاج تثبيت  English Version -no installation needed | [![GitHub Download](https://img.shields.io/badge/GitHub-Download-blue?style=for-the-badge&logo=github)]([https://github.com/TahaDev0/Excel-Password-VBA-Sheets-Remover/releases/tag/Excel_Password_Remover_AR_EN](https://github.com/TahaDev0/Excel-Password-VBA-Sheets-Remover/releases/tag/4.0.0.0)) | [![Direct Download](https://img.shields.io/badge/Direct-Download-green?style=for-the-badge&logo=download)](https://www.up-4ever.net/fa0khnkx3yvg) |
 
 > 💡 **ملاحظة:** فقط حمل وشغل مباشرة!
 
@@ -270,8 +270,8 @@ Tool to remove Excel sheet and VBA passwords.
 #### Ready-to-run versions (Windows)
 | Version | GitHub Release | Direct Download |
 |--------|---------------|----------------|
-|  النسخة العربية - لا يحتاج تثبيت   Arabic Version - no installation needed | [![GitHub Download](https://img.shields.io/badge/GitHub-Download-blue?style=for-the-badge&logo=github)](https://github.com/TahaDev0/Excel-Password-VBA-Sheets-Remover/releases/tag/4.0.0.0) | [![Direct Download](https://img.shields.io/badge/Direct-Download-green?style=for-the-badge&logo=download)](https://www.up-4ever.net/6mgk38ds3lbt) |
-|  النسخة الإنجليزية - لا يحتاج تثبيت  English Version -no installation needed | [![GitHub Download](https://img.shields.io/badge/GitHub-Download-blue?style=for-the-badge&logo=github)]([https://github.com/TahaDev0/Excel-Password-VBA-Sheets-Remover/releases/tag/Excel_Password_Remover_AR_EN](https://github.com/TahaDev0/Excel-Password-VBA-Sheets-Remover/releases/tag/4.0.0.0)) | [![Direct Download](https://img.shields.io/badge/Direct-Download-green?style=for-the-badge&logo=download)](https://www.up-4ever.net/4jli1bvht6r9) |
+|  النسخة العربية - لا يحتاج تثبيت   Arabic Version - no installation needed | [![GitHub Download](https://img.shields.io/badge/GitHub-Download-blue?style=for-the-badge&logo=github)](https://github.com/TahaDev0/Excel-Password-VBA-Sheets-Remover/releases/tag/4.0.0.0) | [![Direct Download](https://img.shields.io/badge/Direct-Download-green?style=for-the-badge&logo=download)](https://www.up-4ever.net/fa0khnkx3yvg) |
+|  النسخة الإنجليزية - لا يحتاج تثبيت  English Version -no installation needed | [![GitHub Download](https://img.shields.io/badge/GitHub-Download-blue?style=for-the-badge&logo=github)]([https://github.com/TahaDev0/Excel-Password-VBA-Sheets-Remover/releases/tag/Excel_Password_Remover_AR_EN](https://github.com/TahaDev0/Excel-Password-VBA-Sheets-Remover/releases/tag/4.0.0.0)) | [![Direct Download](https://img.shields.io/badge/Direct-Download-green?style=for-the-badge&logo=download)](https://www.up-4ever.net/fa0khnkx3yvg) |
 
 > 💡 **Note:* Just download and play directly!!
 
