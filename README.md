@@ -96,6 +96,10 @@ Tool to remove Excel sheet and VBA passwords.
 |--------|---------------|----------------|
 |  النسخة العربية - لا يحتاج تثبيت   Arabic Version - no installation needed | [![GitHub Download](https://img.shields.io/badge/GitHub-Download-blue?style=for-the-badge&logo=github)](https://github.com/TahaDev0/Excel-Password-VBA-Sheets-Remover/releases/tag/4.0.0.0) | [![Direct Download](https://img.shields.io/badge/Direct-Download-green?style=for-the-badge&logo=download)](https://www.up-4ever.net/2plpfyo7amde) |
 
+## 📥 تحميل النسخة الاحدث  لجميع ملفات الاوفيس احدث اصدار  ( النسخة العربية/الإنجليزية  | Arabic/English Version )
+| الملف - FILE | النسخة - Version | الوصف بالعربية - Description in Arabic |  الوصف - Description |
+|------|------|---------------|-------------|
+|📁[Office_Protection_Password_RemoverV1.07.zip](https://www.up-4ever.net/2plpfyo7amde) | النسخة العربية \| Arabic Version | مزيل حماية اوفيس - مُزيل الحماية بكلمة المرور  1.07 – عربي وانجليزي | Office_Protection_Password_RemoverV1.07 – Arabic & English |
 
 > 💡 **ملاحظة:** فقط حمل وشغل مباشرة!
 
@@ -272,6 +276,10 @@ Tool to remove Excel sheet and VBA passwords.
 |--------|---------------|----------------|
 |  النسخة العربية - لا يحتاج تثبيت   Arabic Version - no installation needed | [![GitHub Download](https://img.shields.io/badge/GitHub-Download-blue?style=for-the-badge&logo=github)](https://github.com/TahaDev0/Excel-Password-VBA-Sheets-Remover/releases/tag/4.0.0.0) | [![Direct Download](https://img.shields.io/badge/Direct-Download-green?style=for-the-badge&logo=download)](https://www.up-4ever.net/2plpfyo7amde) |
 
+## 📥 تحميل النسخة الاحدث  لجميع ملفات الاوفيس احدث اصدار  ( النسخة العربية/الإنجليزية  | Arabic/English Version )
+| الملف - FILE | النسخة - Version | الوصف بالعربية - Description in Arabic |  الوصف - Description |
+|------|------|---------------|-------------|
+|📁[Office_Protection_Password_RemoverV1.07.zip](https://www.up-4ever.net/2plpfyo7amde) | النسخة العربية \| Arabic Version | مزيل حماية اوفيس - مُزيل الحماية بكلمة المرور  1.07 – عربي وانجليزي | Office_Protection_Password_RemoverV1.07 – Arabic & English |
 
 > 💡 **Note:* Just download and play directly!!
 
